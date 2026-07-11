@@ -1,0 +1,11 @@
+{
+  "name": "Liya",
+  "description": "A premium, futuristic, distraction-free voice and screen-vision real-time AI desktop assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
