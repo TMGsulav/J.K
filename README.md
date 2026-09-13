@@ -1,3 +1,8 @@
+------------------------------------
+I already leave this projects to there will be no updates in future and it is kinda incomplete so anyone can make changes and make as you thank you !!
+-----------------------------
+--------------------
+
 # 🤖 Liya AI Assistant
 
 Liya is an intelligent desktop AI assistant built to feel like a real personal assistant rather than just another chatbot.
