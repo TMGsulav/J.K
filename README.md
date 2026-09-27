@@ -1,5 +1,5 @@
 ------------------------------------
-I already leave this projects to there will be no updates in future and it is kinda incomplete so anyone can make changes and make as you thank you !!
+I already leave this projects so, there will be no updates in future and it is kinda incomplete so anyone can make changes and make as you want thank you !!
 -----------------------------
 --------------------
 
